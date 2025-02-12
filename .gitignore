@@ -1,4 +1,4 @@
-
-.snnenv/
-
-snn-tutorials/__pycache__/
+**/.snnenv/
+**/__pycache__/
+**/data/
+**/cache/
